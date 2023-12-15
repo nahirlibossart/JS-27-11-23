@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Balde de 1 kg",
+    "precio": 6000,
+    "img": "balde_un_kilo.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Balde de 1/2 kg",
+    "precio": 4000,
+    "img": "balde_medio_kilo.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Balde de 1/4 kg",
+    "precio": 3000,
+    "img": "balde_cuarto_kilo.jpg"
+  }
+]
