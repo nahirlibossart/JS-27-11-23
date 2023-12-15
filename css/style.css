@@ -121,25 +121,6 @@
      font-family: 'Roboto', sans-serif;
  }
 
- .img-gustos {
-     width: 100%;
-     height: 100%;
- }
-
- .contenedor-gustos {
-     padding-left: 20px;
-     padding-right: 20px;
-     margin-top: 100px;
-     display: flex;
-     flex-direction: row;
-     align-items: baseline;
- }
-
- h6 {
-     font-size: 12px;
-     color: hotpink;
- }
-
  .container {
     padding-bottom: 30px;
      width: 100%;
